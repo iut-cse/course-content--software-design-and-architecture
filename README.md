@@ -1,7 +1,7 @@
 # Course Content: Software Design and Architecture
 * Theory: SWE 4601 (3 Credits)
 * Lab: SWE 4602 (0.75 Credits)
-* Offered to 3rd year undergrad students.
+* Offered to 3rd year Software Engineering undergrad students.
 * Relavent courses the target students have completed already:
    * Structured Programming
    * Discrete Mathematics
