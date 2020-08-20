@@ -1,4 +1,4 @@
-At the moment we are trying to gather some topics to be included in the course. To suggest a new topic, please visit [this issue](../../issues/1) and comment.  
+At the moment we are trying to gather some topics to be included in the course. To suggest a new topic, please visit [this issue](../../issues/1).  
 
 When things are more organized and some contents are prepared, you are welcome to do the followings:
 1. **Suggest**: Read the contents and find typos, errors and scopes of improvement. Each topic will have an issue associated with it where you can comment your findings.
